@@ -1,64 +1,99 @@
-# Assignment 01 ‚Äî Introduction to Parallel Programming
+# Ì≥ä Assignment 01 ‚Äî Introduction to Parallel Programming
 
-Elegant, concise documentation for the Assignment 1 submission by Mst. Aysa Siddika Meem (Student ID: 2220281).
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![License](https://img.shields.io/badge/License-Academic-yellow?style=flat-square)
 
-## Abstract
+> **Elegant documentation** for Assignment 1 submission by **Mst. Aysa Siddika Meem** (Student ID: 2220281)
 
-This folder contains the materials and reproducible code for Assignment 01 of the "Introduction to Parallel Programming" course. The work demonstrates core parallel programming techniques through a documented Jupyter Notebook and an exported PDF suitable for submission.
+---
 
-## Files included
+## Ì≥ù Abstract
 
-- `Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb` ‚Äî Main Jupyter Notebook with narrative, code, results and figures.
-- `Assignment_1-2220281-Mst. Aysa Siddika Meem.pdf` ‚Äî Clean PDF export of the notebook (submission-ready).
+This repository contains the materials and reproducible code for **Assignment 01** of the "Introduction to Parallel Programming" course. The work demonstrates core parallel programming techniques through a documented Jupyter Notebook and an exported PDF suitable for submission.
 
-## Key highlights
+## Ì≥Ç Files Included
 
-- Carefully commented examples of parallel programming constructs covered in class.
-- Reproducible experiments and measured results presented inline.
-- Visualizations and a short analysis summarizing observed behavior.
+| File | Description |
+|------|-------------|
+| `Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb` | Ì≥ì Main Jupyter Notebook with narrative, code, results and figures |
+| `Assignment_1-2220281-Mst. Aysa Siddika Meem.pdf` | Ì≥Ñ Clean PDF export of the notebook (submission-ready) |
 
-## Quick setup (recommended)
+## ‚ú® Key Highlights
 
-Prerequisites:
+- ‚úÖ **Carefully commented examples** of parallel programming constructs covered in class
+- Ì≥ä **Reproducible experiments** and measured results presented inline
+- Ì≥à **Visualizations** and short analysis summarizing observed behavior
 
-- Python 3.8 or later
-- Jupyter Notebook or JupyterLab
+## Ì∫Ä Quick Setup
 
-Minimal environment (Windows with Git Bash / WSL; adapt activation for other shells):
+### Prerequisites
+
+- Ì∞ç Python 3.8 or later
+- Ì≥í Jupyter Notebook or JupyterLab
+
+### Installation Steps
+
+**For Windows (Git Bash / WSL):**
 
 ```bash
-# create a venv and activate it
+# Create and activate virtual environment
 python -m venv .venv
 source .venv/Scripts/activate
 
-# install core tools (add extras if needed)
+# Install dependencies
 pip install --upgrade pip
 pip install jupyter numpy matplotlib
 
-# open the notebook
+# Launch notebook
 jupyter notebook "Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb"
 ```
 
-Notes:
+**For PowerShell:**
 
-- Inspect the top of the notebook for any additional imports or dataset links. Install those packages as required.
-- Run the notebook cells in order to reproduce results. Some experiments may be CPU-bound and take longer depending on your machine.
+```powershell
+# Create and activate virtual environment
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 
-## Reproducibility
+# Install dependencies
+pip install --upgrade pip
+pip install jupyter numpy matplotlib
 
-- To make reproducing results easier, add a `requirements.txt` or `environment.yml`. I can generate one automatically by scanning the notebook for imports if you like.
-- For automated validation or CI, run the notebook headlessly with `nbconvert` or `papermill` and compare outputs.
+# Launch notebook
+jupyter notebook "Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb"
+```
 
-## Suggested next steps (optional)
+### Ì≥å Important Notes
 
-1. Add `requirements.txt` with pinned versions.
-2. Add a short `RESULTS.md` summarizing key findings and execution time / hardware used.
-3. Add a small script to run the notebook headlessly for fast verification.
+- Ì¥ç Review the first cells of the notebook for any additional dependencies or data links
+- ‚ñ∂Ô∏è Run cells from top to bottom to reproduce outputs
+- ‚è±Ô∏è CPU-bound experiments may require additional time depending on your hardware
 
-## Author & contact
+## Ì¥Ñ Reproducibility & Automation
 
-Mst. Aysa Siddika Meem ‚Äî Student ID: 2220281
+- Ì≥¶ For exact reproduction, consider adding `requirements.txt` or `environment.yml` with pinned package versions
+- Ì¥ñ For automated verification, the notebook can be executed headlessly using `nbconvert` or `papermill`
 
-If you want this README merged into the existing `README.md` or further customized (add badges, screenshots, an abstract of results, or a generated `requirements.txt`), tell me which items to include and I will update the repository accordingly.
-Feel free to reach out via email at:aysasiddikameem3141@gmail.com
-Thank you for reviewing my assignment submission !
+## Ì≤° Suggested Improvements (Optional)
+
+1. Ì≥ù Add `requirements.txt` with pinned versions
+2. Ì≥ä Add a `RESULTS.md` summarizing key findings, execution time and hardware used
+3. ÔøΩÔøΩ Add a small script to run the notebook headlessly for CI or quick verification
+
+## Ì±§ Author
+
+**Mst. Aysa Siddika Meem**  
+Ì∂î Student ID: 2220281  
+Ì≥ß Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)
+
+---
+
+<div align="center">
+  
+### Ìπè Thank you for reviewing this assignment submission!
+
+**Made with** ‚ù§Ô∏è **for Introduction to Parallel Programming Course**
+
+</div>
