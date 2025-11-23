@@ -1,172 +1,249 @@
-# í³Š Introduction to Parallel Programming â€” Course Assignments
+# ğŸ“Š Introduction to Parallel Programming â€” Course Assignments# ï¿½ï¿½ï¿½ Introduction to Parallel Programming â€” Course Assignments
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-Academic-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
 
-> **Complete collection of assignments** for the Introduction to Parallel Programming course by **Mst. Aysa Siddika Meem** (Student ID: 2220281)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
 
----
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
-## í³ About This Repository
+![License](https://img.shields.io/badge/License-Academic-yellow?style=flat-square)![License](https://img.shields.io/badge/License-Academic-yellow?style=flat-square)
 
-This repository contains all assignments and projects for the **"Introduction to Parallel Programming"** course. Each assignment demonstrates various parallel programming concepts, techniques, and performance optimizations through documented code, experiments, and analysis.
-
-## í³‚ Repository Structure
-
-```
-Introduction-to-Parallel-Programming/
-â”œâ”€â”€ Assignment-01/          # âœ… First assignment (Completed)
-â”‚   â”œâ”€â”€ Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb
-â”‚   â””â”€â”€ Assignment_1-2220281-Mst. Aysa Siddika Meem.pdf
-â”‚
-â”œâ”€â”€ Assignment-02/          # í³ Second assignment
-â”‚   â””â”€â”€ Assignment2.pdf
-â”‚
-â””â”€â”€ README.md              # í³– This file
-```
-
-## í³š Assignments Overview
-
-### í³Œ Assignment 01 â€” Fundamentals of Parallel Programming
-**Status:** âœ… Completed
-
-**Contents:**
-- í³“ Jupyter Notebook with code, narrative, and visualizations
-- í³„ PDF export for submission
-
-**Topics Covered:**
-- Core parallel programming concepts
-- Reproducible experiments and benchmarks
-- Performance analysis and visualizations
-
-[â¡ï¸ View Assignment 01](./Assignment-01/)
+> **Complete collection of assignments** for the Introduction to Parallel Programming course by **Mst. Aysa Siddika Meem** (Student ID: 2220281)> **Complete collection of assignments** for the Introduction to Parallel Programming course by **Mst. Aysa Siddika Meem** (Student ID: 2220281)
 
 ---
 
-### í³Œ Assignment 02 â€” Advanced Parallel Techniques
-**Status:** í³ In Progress
+## ğŸ“ About This Repository## ï¿½ï¿½ï¿½ About This Repository
 
-**Contents:**
-- í³„ Assignment description (PDF)
-- í´„ Implementation files (coming soon)
+This repository contains all assignments and projects for the **"Introduction to Parallel Programming"** course. Each assignment demonstrates various parallel programming concepts, techniques, and performance optimizations through documented code, experiments, and analysis.This repository contains all assignments and projects for the **"Introduction to Parallel Programming"** course. Each assignment demonstrates various parallel programming concepts, techniques, and performance optimizations through documented code, experiments, and analysis.
 
-**Topics Covered:**
-- Advanced parallel programming patterns
-- Performance optimization techniques
-- (More details to be added)
+## ğŸ“‚ Repository Structure## ï¿½ï¿½ï¿½ Repository Structure
 
-[â¡ï¸ View Assignment 02](./Assignment-02/)
+```
+
+Introduction-to-Parallel-Programming/Introduction-to-Parallel-Programming/
+
+â”œâ”€â”€ Assignment-01/          # âœ… First assignment (Completed)â”œâ”€â”€ Assignment-01/          # âœ… First assignment (Completed)
+
+â”‚   â”œâ”€â”€ Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynbâ”‚   â”œâ”€â”€ Assignment_1_2220281_Mst_Aysa_Siddika_Meem.ipynb
+
+â”‚   â””â”€â”€ Assignment_1-2220281-Mst. Aysa Siddika Meem.pdfâ”‚   â””â”€â”€ Assignment_1-2220281-Mst. Aysa Siddika Meem.pdf
+
+â”‚â”‚
+
+â”œâ”€â”€ Assignment-02/          # ğŸ“ Second assignmentâ”œâ”€â”€ Assignment-02/          # ï¿½ï¿½ï¿½ Second assignment
+
+â”‚   â””â”€â”€ Assignment2.pdfâ”‚   â””â”€â”€ Assignment2.pdf
+
+â”‚â”‚
+
+â””â”€â”€ README.md              # ğŸ“– This fileâ””â”€â”€ README.md              # ï¿½ï¿½ï¿½ This file
+
+```
+
+## ğŸ“š Assignments Overview## ï¿½ï¿½ï¿½ Assignments Overview
+
+### ğŸ“Œ Assignment 01 â€” Fundamentals of Parallel Programming### ï¿½ï¿½ï¿½ Assignment 01 â€” Fundamentals of Parallel Programming
+
+**Status:** âœ… Completed**Status:** âœ… Completed
+
+**Contents:\*\***Contents:\*\*
+
+- ğŸ““ Jupyter Notebook with code, narrative, and visualizations- ï¿½ï¿½ï¿½ Jupyter Notebook with code, narrative, and visualizations
+
+- ğŸ“„ PDF export for submission- ï¿½ï¿½ï¿½ PDF export for submission
+
+**Topics Covered:\*\***Topics Covered:\*\*
+
+- Core parallel programming concepts- Core parallel programming concepts
+
+- Reproducible experiments and benchmarks- Reproducible experiments and benchmarks
+
+- Performance analysis and visualizations- Performance analysis and visualizations
+
+[â¡ï¸ View Assignment 01](./Assignment-01/)[â¡ï¸ View Assignment 01](./Assignment-01/)
 
 ---
 
-## íº€ Quick Setup
+### ğŸ“Œ Assignment 02 â€” Advanced Parallel Techniques### ï¿½ï¿½ï¿½ Assignment 02 â€” Advanced Parallel Techniques
 
-### Prerequisites
+**Status:** ğŸ“ In Progress**Status:** ï¿½ï¿½ï¿½ In Progress
 
-- í° **Python 3.8+** â€” Latest stable version recommended
-- í³’ **Jupyter Notebook/Lab** â€” For interactive notebook execution
-- í³¦ **pip** â€” Python package manager
+**Contents:\*\***Contents:\*\*
 
-### Installation & Setup
+- ğŸ“„ Assignment description (PDF)- ï¿½ï¿½ï¿½ Assignment description (PDF)
 
-**For Windows (Git Bash / WSL):**
+- ğŸ”„ Implementation files (coming soon)- ï¿½ï¿½ï¿½ Implementation files (coming soon)
 
-```bash
-# Clone the repository
-git clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.git
-cd Introduction-to-Parallel-Programming
+**Topics Covered:\*\***Topics Covered:\*\*
 
-# Create and activate virtual environment
-python -m venv .venv
-source .venv/Scripts/activate
+- Advanced parallel programming patterns- Advanced parallel programming patterns
 
-# Install core dependencies
-pip install --upgrade pip
-pip install jupyter numpy matplotlib pandas
+- Performance optimization techniques- Performance optimization techniques
 
-# Navigate to specific assignment and launch notebook
-cd Assignment-01
-jupyter notebook
-```
+- (More details to be added)- (More details to be added)
 
-**For PowerShell:**
-
-```powershell
-# Clone the repository
-git clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.git
-cd Introduction-to-Parallel-Programming
-
-# Create and activate virtual environment
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-
-# Install core dependencies
-pip install --upgrade pip
-pip install jupyter numpy matplotlib pandas
-
-# Navigate to specific assignment and launch notebook
-cd Assignment-01
-jupyter notebook
-```
-
-### ï¿½ï¿½ Important Notes
-
-- í´ Each assignment folder may have specific dependencies listed in its own README
-- â–¶ï¸ Run notebook cells sequentially from top to bottom
-- â±ï¸ Some experiments may be CPU-intensive and require additional time
-- í²¾ Ensure you have sufficient disk space for datasets and outputs
-
-## í´„ Reproducibility
-
-Each assignment includes:
-
-- âœ… **Documented code** with clear comments and explanations
-- í³Š **Reproducible experiments** with consistent random seeds
-- í³ˆ **Visualizations** for better understanding of results
-- í³ **Analysis** summarizing key findings and performance metrics
-
-## í²¡ Course Topics
-
-This repository demonstrates understanding of:
-
-- í´€ **Parallel Computing Fundamentals** â€” Threads, processes, synchronization
-- âš¡ **Performance Optimization** â€” Speedup, efficiency, Amdahl's Law
-- í·® **Parallel Algorithms** â€” MapReduce, parallel sorting, matrix operations
-- í» ï¸ **Tools & Libraries** â€” multiprocessing, threading, NumPy, concurrent.futures
-- í³Š **Benchmarking & Profiling** â€” Performance measurement and analysis
-
-## í³– Additional Resources
-
-- í³š Course materials and lecture notes
-- í´— Reference documentation for parallel programming libraries
-- í²» Code examples and best practices
-- í³ Assignment specifications and rubrics
-
-## í±¤ Author
-
-**Mst. Aysa Siddika Meem**  
-í¶” Student ID: 2220281  
-í³§ Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)  
-í´— GitHub: [@MRaysa](https://github.com/MRaysa)
-
-## í³… Timeline
-
-| Assignment | Status | Completion Date |
-|------------|--------|-----------------|
-| Assignment 01 | âœ… Completed | November 2025 |
-| Assignment 02 | í³ In Progress | TBD |
-| Future Assignments | í´„ Upcoming | TBD |
+[â¡ï¸ View Assignment 02](./Assignment-02/)[â¡ï¸ View Assignment 02](./Assignment-02/)
 
 ---
 
-<div align="center">
+## ğŸš€ Quick Setup## ï¿½ï¿½ï¿½ Quick Setup
 
-### í¹ Thank you for visiting this repository!
+### Prerequisites### Prerequisites
 
-**Made with** â¤ï¸ **for Introduction to Parallel Programming Course**
+- ğŸ **Python 3.8+** â€” Latest stable version recommended- ï¿½ï¿½ï¿½ **Python 3.8+** â€” Latest stable version recommended
 
-â­ **Star this repo** if you find it helpful!
+- ğŸ“’ **Jupyter Notebook/Lab** â€” For interactive notebook execution- ï¿½ï¿½ï¿½ **Jupyter Notebook/Lab** â€” For interactive notebook execution
 
-</div>
+- ğŸ“¦ **pip** â€” Python package manager- ï¿½ï¿½ï¿½ **pip** â€” Python package manager
+
+### Installation & Setup### Installation & Setup
+
+**For Windows (Git Bash / WSL):\*\***For Windows (Git Bash / WSL):\*\*
+
+`bash`bash
+
+# Clone the repository# Clone the repository
+
+git clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.gitgit clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.git
+
+cd Introduction-to-Parallel-Programmingcd Introduction-to-Parallel-Programming
+
+# Create and activate virtual environment# Create and activate virtual environment
+
+python -m venv .venvpython -m venv .venv
+
+source .venv/Scripts/activatesource .venv/Scripts/activate
+
+# Install core dependencies# Install core dependencies
+
+pip install --upgrade pippip install --upgrade pip
+
+pip install jupyter numpy matplotlib pandaspip install jupyter numpy matplotlib pandas
+
+# Navigate to specific assignment and launch notebook# Navigate to specific assignment and launch notebook
+
+cd Assignment-01cd Assignment-01
+
+jupyter notebookjupyter notebook
+
+````
+
+
+
+**For PowerShell:****For PowerShell:**
+
+
+
+```powershell```powershell
+
+# Clone the repository# Clone the repository
+
+git clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.gitgit clone https://github.com/MRaysa/Introduction-to-Parallel-Programming.git
+
+cd Introduction-to-Parallel-Programmingcd Introduction-to-Parallel-Programming
+
+
+
+# Create and activate virtual environment# Create and activate virtual environment
+
+python -m venv .venvpython -m venv .venv
+
+.venv\Scripts\Activate.ps1.venv\Scripts\Activate.ps1
+
+
+
+# Install core dependencies# Install core dependencies
+
+pip install --upgrade pippip install --upgrade pip
+
+pip install jupyter numpy matplotlib pandaspip install jupyter numpy matplotlib pandas
+
+
+
+# Navigate to specific assignment and launch notebook# Navigate to specific assignment and launch notebook
+
+cd Assignment-01cd Assignment-01
+
+jupyter notebookjupyter notebook
+
+````
+
+### ğŸ“Œ Important Notes### ï¿½ï¿½ Important Notes
+
+- ğŸ” Each assignment folder may have specific dependencies listed in its own README- ï¿½ï¿½ï¿½ Each assignment folder may have specific dependencies listed in its own README
+
+- â–¶ï¸ Run notebook cells sequentially from top to bottom- â–¶ï¸ Run notebook cells sequentially from top to bottom
+
+- â±ï¸ Some experiments may be CPU-intensive and require additional time- â±ï¸ Some experiments may be CPU-intensive and require additional time
+
+- ğŸ’¾ Ensure you have sufficient disk space for datasets and outputs- ï¿½ï¿½ï¿½ Ensure you have sufficient disk space for datasets and outputs
+
+## ğŸ”„ Reproducibility## ï¿½ï¿½ï¿½ Reproducibility
+
+Each assignment includes:Each assignment includes:
+
+- âœ… **Documented code** with clear comments and explanations- âœ… **Documented code** with clear comments and explanations
+
+- ğŸ“Š **Reproducible experiments** with consistent random seeds- ï¿½ï¿½ï¿½ **Reproducible experiments** with consistent random seeds
+
+- ğŸ“ˆ **Visualizations** for better understanding of results- ï¿½ï¿½ï¿½ **Visualizations** for better understanding of results
+
+- ğŸ“ **Analysis** summarizing key findings and performance metrics- ï¿½ï¿½ï¿½ **Analysis** summarizing key findings and performance metrics
+
+## ğŸ’¡ Course Topics## ï¿½ï¿½ï¿½ Course Topics
+
+This repository demonstrates understanding of:This repository demonstrates understanding of:
+
+- ğŸ”€ **Parallel Computing Fundamentals** â€” Threads, processes, synchronization- ï¿½ï¿½ï¿½ **Parallel Computing Fundamentals** â€” Threads, processes, synchronization
+
+- âš¡ **Performance Optimization** â€” Speedup, efficiency, Amdahl's Law- âš¡ **Performance Optimization** â€” Speedup, efficiency, Amdahl's Law
+
+- ğŸ§® **Parallel Algorithms** â€” MapReduce, parallel sorting, matrix operations- ï¿½ï¿½ï¿½ **Parallel Algorithms** â€” MapReduce, parallel sorting, matrix operations
+
+- ğŸ› ï¸ **Tools & Libraries** â€” multiprocessing, threading, NumPy, concurrent.futures- ï¿½ï¿½ï¿½ï¸ **Tools & Libraries** â€” multiprocessing, threading, NumPy, concurrent.futures
+
+- ğŸ“Š **Benchmarking & Profiling** â€” Performance measurement and analysis- ï¿½ï¿½ï¿½ **Benchmarking & Profiling** â€” Performance measurement and analysis
+
+## ğŸ“– Additional Resources## ï¿½ï¿½ï¿½ Additional Resources
+
+- ğŸ“š Course materials and lecture notes- ï¿½ï¿½ï¿½ Course materials and lecture notes
+
+- ğŸ”— Reference documentation for parallel programming libraries- ï¿½ï¿½ï¿½ Reference documentation for parallel programming libraries
+
+- ğŸ’» Code examples and best practices- ï¿½ï¿½ï¿½ Code examples and best practices
+
+- ğŸ“ Assignment specifications and rubrics- ï¿½ï¿½ï¿½ Assignment specifications and rubrics
+
+## ğŸ‘¤ Author## ï¿½ï¿½ï¿½ Author
+
+**Mst. Aysa Siddika Meem** **Mst. Aysa Siddika Meem**
+
+ğŸ†” Student ID: 2220281 ï¿½ï¿½ï¿½ Student ID: 2220281
+
+ğŸ“§ Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com) ï¿½ï¿½ï¿½ Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)
+
+ğŸ”— GitHub: [@MRaysa](https://github.com/MRaysa)ï¿½ï¿½ï¿½ GitHub: [@MRaysa](https://github.com/MRaysa)
+
+## ğŸ“… Timeline## ï¿½ï¿½ï¿½ Timeline
+
+| Assignment | Status | Completion Date || Assignment | Status | Completion Date |
+
+|------------|--------|-----------------||------------|--------|-----------------|
+
+| Assignment 01 | âœ… Completed | November 2025 || Assignment 01 | âœ… Completed | November 2025 |
+
+| Assignment 02 | ğŸ“ In Progress | TBD || Assignment 02 | ï¿½ï¿½ï¿½ In Progress | TBD |
+
+| Future Assignments | ğŸ”„ Upcoming | TBD || Future Assignments | ï¿½ï¿½ï¿½ Upcoming | TBD |
+
+---
+
+<div align="center"><div align="center">
+
+### ğŸ™ Thank you for visiting this repository!### ï¿½ï¿½ï¿½ Thank you for visiting this repository!
+
+**Made with** â¤ï¸ **for Introduction to Parallel Programming Course\*\***Made with** â¤ï¸ **for Introduction to Parallel Programming Course\*\*
+
+â­ **Star this repo** if you find it helpful!â­ **Star this repo** if you find it helpful!
+
+</div></div>
